@@ -1,4 +1,4 @@
-This POM provides a parent from which programmerPhysicist projects can declare their build configurations.
+This POM provides a parent from which programmerPhysicist's projects can declare their build configurations.
 
 ## Examples
 
